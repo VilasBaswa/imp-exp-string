@@ -1,2 +1,1 @@
-let string = "Be Happy and Safe";
-export string;
+export default let string = "Be happy and safe";
